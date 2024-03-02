@@ -14,7 +14,7 @@ To use this tool, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ghostencrypter.git
+    git clone https://github.com/ghostvirus62/ghostencrypter.git
     ```
 
 2. Navigate to the directory:
